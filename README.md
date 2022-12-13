@@ -55,7 +55,7 @@
 * `sudo bash Xteam.sh`
   
   ### do you want to support us?
- Bitcoin wallet : 3HMWWxAQspwHwrMwcfAjsX5i2w8KryNVGu
+ Bitcoin wallet : bc1qa5arr0thx0vnzye59tp7xdxdcqasxh57tpqtml
   
   
 
